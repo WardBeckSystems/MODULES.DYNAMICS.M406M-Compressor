@@ -1,0 +1,138 @@
+{
+ "code": "M406M",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M406",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "COMPRESSOR IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "COMPRESSOR IN",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "COMPRESSOR OUT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "14",
+   "signal": "COMPRESSOR OUT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "METER OUT",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "METER OUT",
+   "kind": "out",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "SIDE CHAIN",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "18",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "+24 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "+48 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M406/M406.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M406/M406.rto144.json"
+ ]
+}

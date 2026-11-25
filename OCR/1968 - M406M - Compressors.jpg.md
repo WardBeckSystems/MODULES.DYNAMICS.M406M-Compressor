@@ -1,5 +1,5 @@
 # 1968 - M406M - Compressors.jpg
-Wiki page: [M406M](../../../PAGES/M406M.md)
+Wiki page: [M406M](../../../../PAGES/M406M.md)
 
 
 - **Year:** 1968 (module estimate (family))
@@ -59,7 +59,7 @@ NEet Rieorbr
 
 ```json
 {
- "file": "Modules/DYNAMICS/M406M/1968 - M406M - Compressors.jpg",
+ "file": "Modules/DYNAMICS/M406M/PHOTOS/1968 - M406M - Compressors.jpg",
  "sha256": "0c1c59a3e880791e267c822788dd3340366dbfd171b53ed47c5bd44fa3811786",
  "kind": "module",
  "models": [
