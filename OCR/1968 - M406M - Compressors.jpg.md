@@ -1,5 +1,5 @@
 # 1968 - M406M - Compressors.jpg
-Wiki page: [M406M](../../../../PAGES/M406M.md)
+Wiki page: [M406M](../)
 
 
 - **Year:** 1968 (module estimate (family))

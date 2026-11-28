@@ -1,6 +1,6 @@
 # M406M Compressor · Dynamics
 
-Ward-Beck Systems M406M, 1968|1. Wiki page: [M406M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M406M.html)
+Ward-Beck Systems M406M, 1968|1. Wiki page: [M406M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M406M-Compressor/)
 
 | Folder | What is in it | Files |
 |---|---|---|
